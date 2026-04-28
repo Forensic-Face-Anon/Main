@@ -48,15 +48,13 @@ See results:  [OneDrive file](https://sutdapac-my.sharepoint.com/:f:/g/personal/
 ### 2. Optical Flow (FacialFlowNet / DecFlow)
 > Decomposes facial optical flow; discards all photometric appearance.
 
-See repository:  
-Virtual environment: https://console.paperspace.com/tvddx1t71y/notebook/rlvy7kqvxkdnp7r
+See repository: https://github.com/Forensic-Face-Anon/Optical-Flow-DecFlow   
 See results:  [OneDrive file](https://sutdapac-my.sharepoint.com/:f:/g/personal/rose_destor_mymail_sutd_edu_sg/IgByiGLOv2xDR7aU_6zg7pE0AT_lnugGXW18ah0bBA8P9sM?e=9Ds6kB)
 
 ### 3. Binary Masking with Overlaid Keypoints (Masked Piper)
 > Binary silhouette mask + overlaid MediaPipe kinematic keypoints.
 
-See repository:  
-Virtual environment: https://console.paperspace.com/tvddx1t71y/notebook/rysrlfen5qivr3l
+See repository:  https://github.com/Forensic-Face-Anon/MaskedPiper  
 See results:  [OneDrive file](https://sutdapac-my.sharepoint.com/:f:/g/personal/rose_destor_mymail_sutd_edu_sg/IgArZAWOlCPFT5-2-3fykXJhARc_WyssnPIOWtJAdkMHy2M?e=4OGcRZ)
 
 ### 4. Gaussian Blurring with Overlaid Keypoints (MediaPipe)
