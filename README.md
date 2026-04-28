@@ -16,7 +16,7 @@ Facial anonymisation is commonly used to protect the identity of witnesses in le
 This project studies face anonymisation as a privacy--utility trade-off in forensic, human-facing settings, where the goal is not only to conceal identity but also preserve non-identity facial signals.
 
 <p align="center">
-<img src="assets/pipeline.png" width="80%">
+<img src="assets/pipeline.png" width="90%">
 </p>
 
 
@@ -41,8 +41,7 @@ Our results frame forensic face anonymisation as a reproducible privacy--micro-e
 > Retargets facial motion onto an identity-neutral 3D face mesh.
 
 
-See repository:  
-Virtual environment: https://console.paperspace.com/tvddx1t71y/notebook/r8zlkxkulcuedct  
+See repository:  https://github.com/Forensic-Face-Anon/Avatar-LivePortrait  
 See results:  [OneDrive file](https://sutdapac-my.sharepoint.com/:f:/g/personal/rose_destor_mymail_sutd_edu_sg/IgAei8FaMV5rT6URxU2SqBf8AUjxDFGTrZOntO3TriQag2Q?e=hoMHGB)
 
 
@@ -83,7 +82,7 @@ Each approach is evaluated on six criteria:
 
 - **Distractiveness** — 1–5 Likert scale, human-rated
 - **Human usability** — binary: can a human interpret emotional cues?
-- **Identity leakage** — ArcFace cosine similarity (via DeepFace) between original and anonymised frames
+- **Identity leakage** — ArcFace cosine similarity (via DeepFace) between original and anonymised frames. [See code here](https://github.com/Forensic-Face-Anon/CosineSimilarity/tree/main).
 - **Privacy success rate** — fraction of frames that fail face verification at a fixed threshold
 - **Expression consistency** — benchmarked against prior literature (see Appendices B & C)
 - **Inference time** — end-to-end wall-clock time under identical hardware
