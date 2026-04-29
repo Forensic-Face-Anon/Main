@@ -63,6 +63,14 @@ See results:  [OneDrive file](https://sutdapac-my.sharepoint.com/:f:/g/personal/
 See repository: https://github.com/Hypernating/face-anonymisation  
 See results:  [OneDrive file](https://sutdapac-my.sharepoint.com/:f:/g/personal/rose_destor_mymail_sutd_edu_sg/IgARLyoYKXTcQqLe2x4xgjsvAWDn0sJhlm7zvpsfLkyxCdo?e=rLmByE)
 
+### 5. Bonus: Skeletal Hand Overlay for Future Work
+<p align="center">
+<img src="assets/skeletal.png" width="50%">
+</p>
+> Anonymising poses through animated skeletal figures.
+
+See repository: https://github.com/Forensic-Face-Anon/Hand-Overlay-Portrait
+
 ## Results Summary
 
 | Model                  | Distractiveness | Human Usability      | Identity Leakage    | Inference Time | Rank   |
